@@ -18,3 +18,6 @@ module "TEST" {
 
 
 
+output "account_id" {
+  value = module.TEST.account_id
+}
