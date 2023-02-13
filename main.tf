@@ -12,7 +12,7 @@
 
 
 module "TEST" {
-  source  = "app.terraform.io/hbw-test/nocode/aws"
+  source  = "app.terraform.io/hbw-test/nocode/alicloud"
   version = "1.0.0"
 }
 
